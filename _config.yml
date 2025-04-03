@@ -63,8 +63,8 @@ author:
   avatar : "/assets/images/cau.jpg"
   bio    : "My trial using minimal mistakes" #"My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Home"
+      icon: "fas fa-fw fa-house"
       url: "https://pbc86.github.io"
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
