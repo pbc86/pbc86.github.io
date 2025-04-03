@@ -4,10 +4,10 @@ This is my notes taken while following instructions from https://www.youtube.com
 
 ### Step 1:
 
-Create your GitHub account
-Then got to https://github.com/mmistakes
-Click on "Use this template"
-Name your repo as <your_account.github.io>
+- Create your GitHub account
+- Then got to https://github.com/mmistakes
+- Click on "Use this template"
+- Name your repo as <your_account.github.io>
 
 ### Step 2:
 
