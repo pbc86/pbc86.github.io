@@ -12,6 +12,7 @@ This is my notes taken while following instructions from https://www.youtube.com
 ### Step 2:
 
 - Replace bio image: Upload a bio image into assets/images then update `avatar : "/assets/images/new_bio_image.jpg"` in _`config.yml`
+- MathQuantum suggests to update `index.html` to `index.md`, not sure why. Let me skip this step and see how it goes.
 
 
 
