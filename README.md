@@ -17,20 +17,31 @@ This is my notes taken while following instructions from [Build your professiona
 - Change `layout: single` in `index.md` from (`layout: home`) so it won't show the blog posts. (I skipped this step)
 - Markdown syntax: **bold**, *italic*, heading, etc... For further reference, see [Markdown Guide](https://www.markdownguide.org),
 - Update `_data/navigation.yml': 
-  - change the `title` and `url` for instance:
-    - `title: "Presentations"`
-    - `url: /presentations/`
-- create / rename file in `_pages` to match `url`, for instance: `presentations.md`. In the front matter, make sure that `permalink` is pointed to the `url`, for instance `url: /presentation/`
+- Change the `title` and `url` for instance:
+  ```
+  title: "Presentations"
+  url: /presentations/
+  ```
+- Create / rename file in `_pages` to match `url`, for instance: `presentations.md`.
+- In the front matter, make sure that `permalink` is pointed to the `url`, for instance:
+  ```
+  url: /presentations/
+  tile: "Presentations"
+  ```
  
-### Step 4: 
+### Step 4: Embed video and pdf file
 - Insert Youtube video:
-  - abc
-  - def
-- Insert link to pdf file in Google Drive.
+  - click Share button
+  - select Embed
+  - then just copy the code in `<iframe>` tag that Youtube created.
+  <br>
+- Insert pdf file in Google Drive.
   - open the pdf file and Share it.
   - click three dots and select  "Open in new window"
   - in new window, click the three dots again and select "Embeded item ..."
   - copy the code in `<iframe>` tag
+
+See an example of the above [here:](https://pbc86.github.io/about/)
 
 ### Step 5:
 - Mathematical expressions: he mentioned it but did not explain how to do it.
