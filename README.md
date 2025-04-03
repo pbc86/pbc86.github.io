@@ -13,7 +13,7 @@ This is my notes taken while following instructions from [Build your professiona
 - Replace bio image: Upload a bio image into assets/images then update `avatar : "/assets/images/new_bio_image.jpg"` in _`config.yml`
 - Update other values in `_config.yml`:
   ```
-  title: Trumpian taxonomic
+  title: Trumpian taxonomy
   email: # leave it blank 
   description: >- # this means to ignore newlines until "baseurl:"
   
@@ -24,7 +24,7 @@ This is my notes taken while following instructions from [Build your professiona
   author:
   name   : "Cau Pau"
   avatar : "/assets/images/cau.jpg"
-  bio    : "My trial using minimal mistakes"
+  bio    : "Minimal mistakes theme on the most significant tariff mistakes"
 
   ```  
 - MathQuantum suggests to update `index.html` to `index.md`. It's a good idea so you can update the index file easily without too much html.
@@ -65,8 +65,13 @@ This is my notes taken while following instructions from [Build your professiona
 See an example of the above [here:](https://pbc86.github.io/about/)
 
 ### Step 5:
-- Mathematical expressions: he mentioned it but did not explain how to do it.
-- 
+- Mathematical expressions: he mentioned it but did not explain how to do it. I found a solution:
+  - Create `_includes/head/custom.html`
+  - Add relevant scripts. See my `custom.html` for script.
+- Favico:
+  - Create and download favico images at <https://realfavicongenerator.net/> into `assets/images`
+  - Copy code from the above into `_includes/head/custom.html`
+
 ---
 Notes:
 1. How to hide a post: add `published: false` to the front matter
