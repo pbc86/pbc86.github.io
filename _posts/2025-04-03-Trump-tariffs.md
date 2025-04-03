@@ -11,11 +11,12 @@ tags:
   - Bat dong san
 ---
 
-Trump announced 42% tariffs on goods from Vietnam.
+Trump announced 42% tariffs on goods from Vietnam. This is one of the highest tariffs despite Vietnam's efforts
+sucking up to Trump by letting him build a golf course as well as lower tariffs on corn kernels and soybean to 0%.
 
-VNI downed to 1,229.84, -87.99% or (-6.68%)
+[VNI](https://www.investing.com/indices/vn) downed to 1,229.84 from 1,317.83, or -87.99% (-6.68%).
 
-Property market in district 7, according to Batdongsan.com:
+Property market in district 7, according to [Batdongsan.com.vn](https://batdongsan.com.vn/nha-dat-ban-quan-7):
 
 | Description | Quantity |
 | ----------- | -----------: |
