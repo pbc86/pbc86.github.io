@@ -16,9 +16,10 @@
 title: My post on PBC
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  My awesome description for my new site here. I can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # My awesome description for my new site here. I can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
+  My simple blog
 twitter_username: username
 github_username: pbc86
 minimal_mistakes_skin: default
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Cau Pau"
   avatar : "/assets/images/cau.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My trial using minimal mistakes" #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
