@@ -25,9 +25,12 @@ This is my notes taken while following instructions from [Build your professiona
 - Create / rename file in `_pages` to match `url`, for instance: `presentations.md`.
 - In the front matter, make sure that `permalink` is pointed to the `url`, for instance:
   ```
-  url: /presentations/
+  ---
+  permalink: /presentations/
   title: "Presentations"
+  ---
   ```
+  Note that the value of `url` key will be the same as `permalink` and there is no hyphen before the `title`.
  
 ### Step 4: Embed video and pdf file
 - Insert Youtube video:
