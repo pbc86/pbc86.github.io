@@ -10,22 +10,27 @@ This is my notes taken while following instructions from [Build your professiona
 - Name your repo as <your_account.github.io>
 
 ### Step 2:
-
 - Replace bio image: Upload a bio image into assets/images then update `avatar : "/assets/images/new_bio_image.jpg"` in _`config.yml`
 - MathQuantum suggests to update `index.html` to `index.md`. It's a good idea so you can update the index file easily without too much html.
 
-### Step 3:
-- Change `layout: single` in `index.md` from (`layout: home`) so it won't show the blog posts.
+### Step 3: landing page and navigation menu
+- Change `layout: single` in `index.md` from (`layout: home`) so it won't show the blog posts. (I skipped this step)
 - Markdown syntax: **bold**, *italic*, heading, etc... For further reference, see [Markdown Guide](https://www.markdownguide.org),
 - Update `_data/navigation.yml': 
-  - change the `title` and `url`
-  - create / rename file in `??` to match `url`
+  - change the `title` and `url` for instance:
+    - `title: "Presentations"`
+    - `url: /presentations/`
+- create / rename file in `_pages` to match `url`, for instance: `presentations.md`. In the front matter, make sure that `permalink` is pointed to the `url`, for instance `url: /presentation/`
  
 ### Step 4: 
 - Insert Youtube video:
   - abc
   - def
 - Insert link to pdf file in Google Drive.
+  - open the pdf file and Share it.
+  - click three dots and select  "Open in new window"
+  - in new window, click the three dots again and select "Embeded item ..."
+  - copy the code in `<iframe>` tag
 
 ### Step 5:
 - Mathematical expressions: he mentioned it but did not explain how to do it.
