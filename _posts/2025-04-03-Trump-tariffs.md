@@ -1,6 +1,7 @@
 ---
 date: 2025-04-03
 title: Trump announced tariffs
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
