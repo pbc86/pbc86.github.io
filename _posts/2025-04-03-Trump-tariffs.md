@@ -25,6 +25,7 @@ Property market in district 7, according to [Batdongsan.com.vn](https://batdongs
 | Price changed | + 31.7% |
 | Searches | 27,176 |
 
+The US isn't fare better, NASDAQ fell more than 5% and Dow Jones fell 3.4%. The Trumpians must be happy.
 
 # Testing out latex
 
