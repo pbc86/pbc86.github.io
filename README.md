@@ -1,6 +1,6 @@
 # My notes
 
-This is my notes taken while following instructions from https://www.youtube.com/watch?v=Pof342wGt78&t=605s
+This is my notes taken while following instructions from [Build your professional webpage - Tutorial](https://www.youtube.com/watch?v=Pof342wGt78&t=605s) by MathQuantum.
 
 ### Step 1:
 
@@ -12,10 +12,30 @@ This is my notes taken while following instructions from https://www.youtube.com
 ### Step 2:
 
 - Replace bio image: Upload a bio image into assets/images then update `avatar : "/assets/images/new_bio_image.jpg"` in _`config.yml`
-- MathQuantum suggests to update `index.html` to `index.md`, not sure why. Let me skip this step and see how it goes.
+- MathQuantum suggests to update `index.html` to `index.md`. It's a good idea so you can update the index file easily without too much html.
+
+### Step 3:
+- Change `layout:` in `index.md` to `single` from `home` so it won't show the blog posts.
+- Markdown syntax: **bold**, *italic*, heading, etc... For further reference, see [Markdown Guide](https://www.markdownguide.org),
+- Update `_data/navigation.yml':
+  - change the `title` and `url`
+  - create / rename file in `??` to match `url`
+ 
+### Step 4: 
+- Add Youtube video:
+  - abc
+  - def
+- Add link to pdf file in Google Drive.
+
+### Step 5:
+- Mathematical expressions: he mentioned it but did not explain how to do it.
+- 
+---
+Notes:
+1. How to hide a post: add `published: false` to the front matter
 
 
-
+---
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
