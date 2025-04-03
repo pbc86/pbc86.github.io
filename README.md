@@ -1,3 +1,18 @@
+# My notes
+
+This is my notes taken while following instructions from https://www.youtube.com/watch?v=Pof342wGt78&t=605s
+
+### Step 1:
+
+Create your GitHub account
+Then got to https://github.com/mmistakes
+Click on "Use this template"
+Name your repo as <your_account.github.io>
+
+### Step 2:
+
+
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
