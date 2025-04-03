@@ -2,18 +2,34 @@
 
 This is my notes taken while following instructions from [Build your professional webpage - Tutorial](https://www.youtube.com/watch?v=Pof342wGt78&t=605s) by MathQuantum.
 
-### Step 1:
+### Step 1: Creating page and copy template 
 
 - Create your GitHub account
-- Then got to https://github.com/mmistakes
+- Then go to https://github.com/mmistakes
 - Click on "Use this template"
 - Name your repo as <your_account.github.io>
 
-### Step 2:
+### Step 2: Replace bio image
 - Replace bio image: Upload a bio image into assets/images then update `avatar : "/assets/images/new_bio_image.jpg"` in _`config.yml`
+- Update other values in `_config.yml`:
+  ```
+  title: Trumpian taxonomic
+  email: # leave it blank 
+  description: >- # this means to ignore newlines until "baseurl:"
+  
+  # twitter_username: username # comment it out
+  github_username: pbc86
+  minimal_mistakes_skin: dark
+
+  author:
+  name   : "Cau Pau"
+  avatar : "/assets/images/cau.jpg"
+  bio    : "My trial using minimal mistakes"
+
+  ```  
 - MathQuantum suggests to update `index.html` to `index.md`. It's a good idea so you can update the index file easily without too much html.
 
-### Step 3: landing page and navigation menu
+### Step 3: Landing page and navigation menu
 - Change `layout: single` in `index.md` from (`layout: home`) so it won't show the blog posts. (I skipped this step)
 - Markdown syntax: **bold**, *italic*, heading, etc... For further reference, see [Markdown Guide](https://www.markdownguide.org),
 - Update `_data/navigation.yml': 
@@ -43,6 +59,8 @@ This is my notes taken while following instructions from [Build your professiona
   - click three dots and select  "Open in new window"
   - in new window, click the three dots again and select "Embeded item ..."
   - copy the code in `<iframe>` tag
+
+> _Note: not to worry if Review doesn't show the embeded files properly._
 
 See an example of the above [here:](https://pbc86.github.io/about/)
 
