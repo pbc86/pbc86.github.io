@@ -10,4 +10,3 @@ title: Home
 This is a md file as suggested by MathQuantum. Renaming to md from html allows me to add and format text easily.
 
 
----
