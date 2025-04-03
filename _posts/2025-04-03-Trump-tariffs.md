@@ -25,3 +25,7 @@ Property market in district 7, according to [Batdongsan.com.vn](https://batdongs
 | Price changed | + 31.7% |
 | Searches | 27,176 |
 
+
+# Testing out latex
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
