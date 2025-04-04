@@ -24,6 +24,8 @@ twitter_username: username
 github_username: pbc86
 minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 search: true
+logo: "/assets/images/favicon-96x96.png"
+masthead_title: "Trumpian Taxonomy"
 
 # Build settings
 markdown: kramdown
