@@ -47,11 +47,12 @@ This is my notes taken while following instructions from [Build your professiona
 - Markdown syntax: **bold**, *italic*, heading, etc... For further reference, see [Markdown Guide](https://www.markdownguide.org),
 - Update `_data/navigation.yml`: 
 - Change the `title` and `url` for instance:
+  
   ```
   - title: "Presentations"
     url: /presentations/
-  
   ```
+
 - Create / rename file in `_pages` to match `url`, for instance: `presentations.md`.
 - In the front matter, make sure that `permalink` is pointed to the `url`, for instance:
   ```
