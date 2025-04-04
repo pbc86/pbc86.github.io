@@ -118,9 +118,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
-comments:
+comments: 
   provider: "facebook"
-  facebook:
+  facebook: https://developers.facebook.com/docs/plugins/comments
     appid: # optional
     num_posts: 5
     colorscheme: "light"
