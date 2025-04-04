@@ -120,7 +120,7 @@ tag_archive:
 
 comments: 
   provider: "facebook"
-  facebook: https://developers.facebook.com/docs/plugins/comments
+  facebook: "https://developers.facebook.com/docs/plugins/comments"
     appid: # optional
     num_posts: 5
     colorscheme: "light"
