@@ -45,7 +45,7 @@ This is my notes taken while following instructions from [Build your professiona
 ### Step 3: Landing page and navigation menu
 - Change `layout: single` in `index.md` from (`layout: home`) so it won't show the blog posts. (I skipped this step)
 - Markdown syntax: **bold**, *italic*, heading, etc... For further reference, see [Markdown Guide](https://www.markdownguide.org),
-- Update `_data/navigation.yml': 
+- Update `_data/navigation.yml`: 
 - Change the `title` and `url` for instance:
   ```
   - title: "Presentations"
