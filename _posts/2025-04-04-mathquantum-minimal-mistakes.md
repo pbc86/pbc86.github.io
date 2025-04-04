@@ -49,7 +49,7 @@ This is my notes taken while following instructions from [Build your professiona
 - Change the `title` and `url` for instance:
   ```
   - title: "Presentations"
-    url: /presentations/
+    url: /presentations/   
   ```
 - Create / rename file in `_pages` to match `url`, for instance: `presentations.md`.
 - In the front matter, make sure that `permalink` is pointed to the `url`, for instance:
