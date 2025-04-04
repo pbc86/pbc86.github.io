@@ -1,5 +1,5 @@
 ---
-date: 2025-04-04
+date: 2025-04-03
 title: MathQuantum's tutorial on Minimal Mistakes
 published: true
 excerpt_separator: "<!--more-->"
