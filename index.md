@@ -13,6 +13,7 @@ However, the `layout: home` hasn't been changed to `single`.
 TODO:
 
 - Change font size of "Recent Posts"
-- Favicon not show up in Home Page when using Safari 
+- Favicon not show up in Home Page when using Safari
+- Default front matter
 
 
