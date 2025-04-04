@@ -20,7 +20,7 @@ This is my notes taken while following instructions from [Build your professiona
 - Create your GitHub account
 - Then go to https://github.com/mmistakes
 - Click on "Use this template"
-- Name your repo as <your_account.github.io>
+- Name your repo as `<your_account.github.io>`
 
 ### Step 2: Replace bio image
 - Replace bio image: Upload a bio image into assets/images then update `avatar : "/assets/images/new_bio_image.jpg"` in _`config.yml`
@@ -85,6 +85,7 @@ See an example of the above [here:](https://pbc86.github.io/about/)
   - Option 2: from MathQuantum's response to my comment on his video. I will test this later.
     - [How to render math equations on your Minimal Mistakes](https://www.cross-validated.com/How-to-render-math-on-Minimal-Mistakes/)
 - Favico:
+  - Favico should be square as svg file needs to be square.
   - Create and download favico images at <https://realfavicongenerator.net/> into `assets/images`
   - Copy code from the above into `_includes/head/custom.html`
   - Good reference [Adding a favicon to a Jekyll-based static website](https://peateasea.de/add-favicon-to-mm-jekyll-site/)
