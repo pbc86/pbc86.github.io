@@ -16,7 +16,7 @@ Vietnam is one of the biggest losers if not the boggest, 46% tariffs are brutal
 [VNI](https://www.investing.com/indices/vn) downed to 1,210.67 from 1,229.84, lost -19.17 (-1.56%).
 
 Property market in district 7, according to [Batdongsan.com.vn](https://batdongsan.com.vn/nha-dat-ban-quan-7). 
-It seems the data hasn't changed, probably it doesn't get updated daily:
+The data appears mostly static, with only a slight increase in listed properties, suggesting infrequent updates.
 
 | Description | Yesterday | Today |
 | ----------- | -----------: | --: |
