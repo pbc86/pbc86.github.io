@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Cau Pau"
   avatar : "/assets/images/cau.jpg"
-  bio    : "Minimal mistakes theme on the most significant tariff mistakes" #"My awesome biography constrained to a sentence or two goes here."
+  bio    : "Learning static site generators. Starting with Jekyll"
   links:
     - label: "Home"
       icon: "fas fa-fw fa-house"

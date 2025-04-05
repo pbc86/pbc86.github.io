@@ -14,14 +14,21 @@ tags:
 ---
 
 Evan Will's instructions [Introduction to Creating Websites with GitHub Pages and Jekyll](https://evanwill.github.io/go-go-ghpages-b/)
-are comprehensive. There are videos on Youtube as well but I prefer reading instructions on his web site. 
+are comprehensive. There are videos on Youtube as well but I prefer texts over videos. 
 
-### Part 1: Introduction to GitHub
+I won't repeat what can be read on Evan's website, just make a few notes:
 
-- Create new public repo.
-- Check the “Add a README file” option.
-- Activate GitHub Pages
-  - Go to Setting tab
-  - Select Pages (Probably it as Github Pages when Evan wrote his instructions)
-  - Select source as main/root, then Save.
-- Create index.html
+1. Typo error: Evan did a very good job with his website. However, it's noticed that there is one typo error in the name of the .csv file. It should have been plural animal**s**.csv. 
+
+> ### Create _data
+> To add some example data to our blog, let’s manually create a CSV:
+
+> On your repository’s home page, click the “Add file” button and select “Create new file”.
+> Type your new data filename: _data/animal.csv
+
+Later on, there a pieces of code refering to animals.csv as seen below. These pieces of code didn't work until the error is fixed.
+
+> ``` 
+> {% for animal in site.data.animals %}
+> {% endfor %} 
+> ```
