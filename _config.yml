@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Trumpian Taxonomy
+title: Title
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   # My awesome description for my new site here. I can edit this
@@ -25,7 +25,7 @@ github_username: pbc86
 minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 search: true
 logo: "/assets/images/favicon-96x96.png"
-masthead_title: "Trumpian Taxonomy"
+masthead_title: "Static Site Generators"
 
 # Build settings
 markdown: kramdown
