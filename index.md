@@ -9,6 +9,9 @@ title: Home
 
 Learning Jekyll from online tutorials. This is not a review but my personal notes.
 
+1. MathQuantum (this page)
+2. Evan Will (link in side bar)
+3. Kevin Workman (link in side bar)
 
 
 
