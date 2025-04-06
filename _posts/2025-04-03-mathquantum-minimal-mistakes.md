@@ -93,3 +93,14 @@ See an example of the above [here:](https://pbc86.github.io/about/)
   - Good reference [Adding a favicon to a Jekyll-based static website](https://peateasea.de/add-favicon-to-mm-jekyll-site/)
 - How to hide a post: add `published: false` to the front matter
 
+----
+### _Notes:_
+
+The `index.html` is renamed as `index.md` as suggested by MathQuantum. The rename allows me to add and format text easily.
+However, the `layout: home` hasn't been changed to `single`.
+
+TODO:
+
+- Change font size of "Recent Posts"
+- Favicon not show up in Home Page when using Safari
+- Default front matter
