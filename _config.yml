@@ -77,7 +77,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com"
-   
+    - label: "Evan Will"
+      icon: "fas fa-fw fa-link"
+      url: "https://pbc86.github.io/evanwill/"
+    - label: "Kevin Workman"
+      icon: "fas fa-fw fa-link"
+      url: "https://pbc86.github.io/kevinworkman/"" 
 
 footer:
   links:
