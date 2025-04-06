@@ -9,9 +9,10 @@ title: Home
 
 Learning Jekyll from online tutorials. This is not a review but my personal notes.
 
-1. MathQuantum (this page)
-2. Evan Will (link in side bar)
-3. Kevin Workman (link in side bar)
+1. MathQuantum (this page): quite good. For more, read it [here](https://pbc86.github.io/blog/mathquantum-minimal-mistakes/).
+2. Evan Will (link in side bar): very comprehensive with both text and video options.
+3. Kevin Workman (link in side bar): should be the first one to take. The way Kevin teaches it is to take the learner from the basic concept then gradually develops further to explain how Jekyll does what it does. 
+    
 
 
 
