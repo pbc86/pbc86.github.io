@@ -12,7 +12,7 @@ tags:
   - tutorial
 ---
 
-evin has a bunch of tutorials on his [website](https://happycoding.io/). For Jekyll tutorial, go to Tutorials tab, under HTML, you can find his [Jekyll Tutorial](https://happycoding.io/tutorials/html/jekyll).
+Kevin has a bunch of tutorials on his [website](https://happycoding.io/). For Jekyll tutorial, go to Tutorials tab, under HTML, you can find his [Jekyll Tutorial](https://happycoding.io/tutorials/html/jekyll).
 
 Remember to add a **dot** (`.`) just before the / to indicate parent folder instead of root. For instance:
 
