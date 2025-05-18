@@ -20,7 +20,7 @@ Tụi nó lại xúm vào tìm giấu mất.
 Sáu mươi tuổi hẹn hò nghe khoái nhở  
 Đám cháu con nghe thấy há hốc mồm  
 Hò với hẹn sao mà thân thương quá  
-Bạn bè ơi tranh thủ kéo khuya rồi.  
+Bạn bè ơi tranh thủ kẻo khuya rồi.  
 
 Bốn mươi năm tụi mình hò hẹn thôi  
 Bao ký ức một thời thơ vụng dại  
