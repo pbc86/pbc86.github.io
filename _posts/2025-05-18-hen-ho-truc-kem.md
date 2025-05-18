@@ -37,8 +37,8 @@ Về để nghe thủ thỉ tiếng khò khè
 Tim yếu lắm, nhớ đem theo thuốc nhé  
 Kẻo không thôi huyết áp nhảy cành cành.
 
-18/5/2025
-Trực kẽm (đã ký)
+18/5/2025  
+_Trực kẽm (đã ký)_
 
 
 ![anh 1]({{ site.baseurl }}/assets/img/20250518/1.jpeg)
