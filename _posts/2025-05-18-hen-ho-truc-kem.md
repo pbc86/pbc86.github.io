@@ -3,10 +3,9 @@ title: "Hẹn gặp tuổi 60"
 date: 2025-05-18
 math: true
 tags: ["40", "hẹn hò"]
-author: "truc_kem"
   
 ---
-
+_Tac gia: Truc kem_
 
 Bốn mươi năm tụi mình hẹn gặp nhau  
 Bốn mươi năm nhưng tuổi sáu mươi rồi.  
