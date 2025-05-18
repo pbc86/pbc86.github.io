@@ -2,7 +2,7 @@
 title: "Hẹn gặp tuổi 60"
 date: 2025-05-18
 math: true
-tags: ["40", "hẹn hò"]
+tags: ["40", "hẹn hò", "60"]
 author: truc_kem  
 ---
 
