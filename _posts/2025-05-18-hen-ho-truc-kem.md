@@ -45,3 +45,6 @@ _Trực kẽm (đã ký)_
   
 
 ![anh 2]({{ site.baseurl }}/assets/img/20250518/2.jpeg)
+
+![anh 3]({{ site.baseurl }}/assets/img/20250518/3.jpg)
+_Xưa kia từng có: Bầy chim non bơi lội trên sông. Bầy chim ấy nay đã già._
