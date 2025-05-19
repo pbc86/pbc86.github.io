@@ -50,5 +50,5 @@ _Xưa kia từng có: Bầy chim non bơi lội trên sông. Bầy chim ấy nay
 
 
 #### Ghi chú
-[^footnote]: Cập nhật theo yêu cầu của tác giả.
-[^fn-nth-2]: Cập nhật theo yêu cầu của tác giả.
+[^footnote]: Những chữ in nghiêng: Cập nhật theo yêu cầu của tác giả.
+[^fn-nth-2]: Những chữ in nghiêng: Cập nhật theo yêu cầu của tác giả.
