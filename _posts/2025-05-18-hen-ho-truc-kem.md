@@ -6,7 +6,6 @@ tags: ["40", "hẹn hò", "60"]
 author: truc_kem  
 ---
 
-
 Bốn mươi năm tụi mình hẹn gặp nhau  
 Bốn mươi năm nhưng tuổi sáu mươi rồi.  
 Đứa chống gậy, đứa thì nhồi huyết áp,  
