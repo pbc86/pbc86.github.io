@@ -10,7 +10,7 @@ author: truc_kem
 Bốn mươi năm tụi mình hẹn gặp nhau  
 Bốn mươi năm nhưng tuổi sáu mươi rồi.  
 Đứa chống gậy, đứa thì nhồi huyết áp,  
-Hẹn hò thôi, gấp gấp kẻo hết giờ.  
+Hẹn hò thôi, gấp _gấp_ kẻo hết _giờ_.[^footnote]  
 
 Sáu mươi tuổi, tụi mình hẹn hò thôi,  
 Nói nho nhỏ, cười cũng cười nho nhỏ.  
@@ -25,7 +25,7 @@ Bạn bè ơi tranh thủ kẻo khuya rồi.
 Bốn mươi năm tụi mình hò hẹn thôi  
 Bao ký ức một thời thơ vụng dại  
 Chảy tràn về làm thổn thức thâu đêm  
-Ta với bạn, chúng mình hẹn nhé.  
+Ta với bạn, _bọn_ chúng mình hẹn nhé.[^fn-nth-2]  
 
 Mấy đứa xa lo mà về kẻo trễ   
 Đứa Canada, đứa bên Mỹ, bên Nhật  
@@ -48,3 +48,8 @@ _Trực kẽm (đã ký)_
 
 ![anh 3]({{ site.baseurl }}/assets/img/20250518/3.jpg)
 _Xưa kia từng có: Bầy chim non bơi lội trên sông. Bầy chim ấy nay đã già._
+
+
+#### Ghi chú
+[^footnote]: Cập nhật theo yêu cầu của tác giả.
+[^fn-nth-2]: Cập nhật theo yêu cầu của tác giả.
