@@ -10,7 +10,7 @@ author: truc_kem
 Bốn mươi năm tụi mình hẹn gặp nhau  
 Bốn mươi năm nhưng tuổi sáu mươi rồi.  
 Đứa chống gậy, đứa thì nhồi huyết áp,  
-Hẹn hò thôi, kẻo gấp gáp hết già.  
+Hẹn hò thôi, gấp gấp kẻo hết giờ.  
 
 Sáu mươi tuổi, tụi mình hẹn hò thôi,  
 Nói nho nhỏ, cười cũng cười nho nhỏ.  
