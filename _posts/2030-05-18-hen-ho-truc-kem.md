@@ -1,6 +1,6 @@
 ---
 title: "Hẹn gặp tuổi 60"
-date: 2025-05-18
+date: 2035-05-18
 math: true
 tags: ["40", "hẹn hò", "60"]
 author: truc_kem  
@@ -26,7 +26,7 @@ Bao ký ức một thời thơ vụng dại
 Chảy tràn về làm thổn thức thâu đêm  
 Ta với bạn, _bọn_ chúng mình hẹn nhé.[^fn-nth-2]  
 
-Mấy đứa xa lo mà về kẻo trễ   
+Mấy đứa xa lo mà về kẻo trễ  
 Đứa Canada, đứa bên Mỹ, bên Nhật  
 Đứa Kuwait, đứa Hóc Môn, Quận 7  
 Lo bỏ heo, chơi hụi … kiếm tiền về.  
@@ -39,16 +39,14 @@ Kẻo không thôi huyết áp nhảy cành cành.
 18/5/2025  
 _Trực kẽm (đã ký)_
 
-
 ![anh 1]({{ site.baseurl }}/assets/img/20250518/1.jpeg)
   
-
 ![anh 2]({{ site.baseurl }}/assets/img/20250518/2.jpeg)
 
 ![anh 3]({{ site.baseurl }}/assets/img/20250518/3.jpg)
 _Xưa kia từng có: Bầy chim non bơi lội trên sông. Bầy chim ấy nay đã già._
 
-
 #### Ghi chú
+
 [^footnote]: Những chữ in nghiêng: Cập nhật theo yêu cầu của tác giả.
 [^fn-nth-2]: Những chữ in nghiêng: Cập nhật theo yêu cầu của tác giả.

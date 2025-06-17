@@ -1,21 +1,21 @@
 ---
 title: "Bài toán đố với số 3 và 7"
-date: 2022-10-14
+date: 2035-10-14
 math: true
 tags: ["37", "toán đố "]
 ---
 
 ### Câu đố:
 
-Chờ ngày họp lớp vào năm 2023, Bảo đại đã có [bài toán đố với số 2023]({{ site.baseurl }}/posts/bai-toan-2023/) rồi.  Bài toán đố hay vậy mà Nẫu đã không hưởng ứng mà BD lại còn bị Xứ Nẫu mắng té tát.  
+Chờ ngày họp lớp vào năm 2023, Bảo đại đã có [bài toán đố với số 2023]({{ site.baseurl }}/posts/bai-toan-2023/) rồi.  Bài toán đố hay vậy mà Nẫu đã không hưởng ứng mà BD lại còn bị Xứ Nẫu mắng té tát.
 Hướng tới kỷ niệm 37 năm ngày ra trường, Bảo đại tặng thêm bài toán đố có số 3 và 7.
 
-> **Cho**:  
-> $$a + b = 3$$  
+> **Cho**:
+> $$a + b = 3$$
 > $$a^2 + b^2 = 7$$
 {: .prompt-tip }
 
-> **Hỏi**:  
+> **Hỏi**:
 > $$a^4 + b^4 = $$ ??
 {: .prompt-warning }
 
